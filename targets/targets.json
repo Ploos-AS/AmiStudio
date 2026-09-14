@@ -1,0 +1,10 @@
+{
+  "format_version": 1,
+  "targets": [
+    {"id":"amiga-a500-ocs","cpu":"68000","chipset":"OCS","chip_ram_kib":512,"fast_ram_kib":512},
+    {"id":"amiga-a500plus-ecs","cpu":"68000","chipset":"ECS","chip_ram_kib":1024,"fast_ram_kib":0},
+    {"id":"amiga-a600-ecs","cpu":"68000","chipset":"ECS","chip_ram_kib":1024,"fast_ram_kib":0},
+    {"id":"amiga-a1200-aga","cpu":"68020","chipset":"AGA","chip_ram_kib":2048,"fast_ram_kib":0},
+    {"id":"amiga-cd32-aga","cpu":"68020","chipset":"AGA","chip_ram_kib":2048,"fast_ram_kib":0}
+  ]
+}
